@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mateusmacciel)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mateusmacciel&theme=dark)](https://git.io/streak-stats)
